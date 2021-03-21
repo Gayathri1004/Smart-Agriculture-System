@@ -9,7 +9,7 @@
 - It also supports a chat feature thereby allowing the farmer to interact with other farmers.
 - The information on the web page can be updated by an administrator on timely basis.
 
-# Softwares used
+# Languages used
 - MySQL
 - PHP
 - HTML
